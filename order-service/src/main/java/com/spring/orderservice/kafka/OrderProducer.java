@@ -3,6 +3,7 @@ package com.spring.orderservice.kafka;
 import com.spring.basedomains.dto.OrderEvent;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.kafka.clients.admin.NewTopic;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.kafka.support.KafkaHeaders;
 import org.springframework.messaging.Message;
@@ -19,6 +20,7 @@ public class OrderProducer {
         this.kafkaTemplate = kafkaTemplate;
     }
 
+    @Autowired
     private NewTopic topic;
 
     public void sendMessage(OrderEvent orderEvent){
