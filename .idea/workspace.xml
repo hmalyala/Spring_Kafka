@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eea2f91b-0973-41cc-854b-02e05bdb59aa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base-domains/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base-domains/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base-domains/src/main/java/com/spring/basedomains/dto/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/base-domains/src/main/java/com/spring/basedomains/dto/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/spring/orderservice/OrderServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/spring/orderservice/OrderServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/spring/orderservice/kafka/OrderProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/spring/orderservice/kafka/OrderProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="eea2f91b-0973-41cc-854b-02e05bdb59aa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "dev",
+    "git-widget-placeholder": "master",
     "last_directory_selection": "/Users/hmalyala/Downloads/Spring Boot Microservices/order-service/src/test/java",
     "last_opened_file_path": "/Users/hmalyala/Downloads/Spring Boot Microservices",
     "node.js.detected.package.eslint": "true",
