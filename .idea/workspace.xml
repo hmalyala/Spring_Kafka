@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eea2f91b-0973-41cc-854b-02e05bdb59aa" name="Changes" comment="" />
+    <list default="true" id="eea2f91b-0973-41cc-854b-02e05bdb59aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/stock-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stock-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/stock-service/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "dev",
     "last_directory_selection": "/Users/hmalyala/Downloads/Spring Boot Microservices/order-service/src/test/java",
     "last_opened_file_path": "/Users/hmalyala/Downloads/Spring Boot Microservices",
     "node.js.detected.package.eslint": "true",
@@ -63,7 +68,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.OrderServiceApplication">
+  <component name="RunManager" selected="Spring Boot.StockServiceApplication">
     <configuration name="BaseDomainsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="base-domains" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.basedomains.BaseDomainsApplication" />
@@ -119,8 +124,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.OrderServiceApplication" />
         <item itemvalue="Spring Boot.StockServiceApplication" />
+        <item itemvalue="Spring Boot.OrderServiceApplication" />
         <item itemvalue="Spring Boot.EmailServiceApplication" />
       </list>
     </recent_temporary>
