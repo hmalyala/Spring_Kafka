@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eea2f91b-0973-41cc-854b-02e05bdb59aa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Spring Boot Microservices.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-service/src/main/java/com/spring/stockservice/StockServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/stock-service/src/main/java/com/spring/stockservice/StockServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-service/src/main/java/com/spring/stockservice/kafka/OrderConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/stock-service/src/main/java/com/spring/stockservice/kafka/OrderConsumer.java" afterDir="false" />
-    </list>
+    <list default="true" id="eea2f91b-0973-41cc-854b-02e05bdb59aa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
